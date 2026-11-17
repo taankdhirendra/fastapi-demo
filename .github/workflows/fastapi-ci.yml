@@ -16,7 +16,7 @@ jobs:
   test:
     name: FastAPI Testing
 
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
       # Step 1: Checkout source code
